@@ -1,6 +1,6 @@
 ## 안녕하세요! 이도영입니다. 👋
 
- <b>:blush: Good day,  I am Do young Lee</b>
+ <b>Good day:blush: ,  I am Do young Lee</b>
 
 <br />
 💡 <b>Profile</b>
