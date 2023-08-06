@@ -6,7 +6,7 @@
  I am currently learning frontend development.
 
 <br />
-💡 <b>Profile</b>
+💡 <b>Contact</b>
 <br />
 <br />
 <b>:envelope: 이메일</b> : leedoyoung.oc@gmail.com
