@@ -1,7 +1,8 @@
 ## 안녕하세요:wave: 이도영입니다. 
 
- <b>Good day:blush: ,  
- I am Do young Lee</b>
+ Good day:blush: ,<br />
+ My name is Do young Lee. <br />
+ I am currently learning frontend development.
 
 <br />
 💡 <b>Profile</b>
