@@ -1,12 +1,14 @@
 ## 안녕하세요! 이도영입니다. 👋
 
+ :blush: Good day !, I am Do young Lee
+
 <br />
 💡 <b>Profile</b>
 <br />
 <br />
-<b>✉️ 이메일</b> : leedoyoung.oc@gmail.com
+<b>:envelope: 이메일</b> : leedoyoung.oc@gmail.com
 <br />
-<b>📘 블로그</b> : <a href="https://whereiserror.tistory.com"  target="_blank" >https://whereiserror.tistory.com</a>
+<b>:blue_book: 블로그</b> : <a href="https://whereiserror.tistory.com"  target="_blank" >https://whereiserror.tistory.com</a>
 
 <br />
 
@@ -14,7 +16,7 @@
 
 
 <br/>
-💻 <b>Skills</b>
+ :computer: <b>Skills</b>
 <br/>
 <br/>
 <p>
