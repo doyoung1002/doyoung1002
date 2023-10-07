@@ -4,7 +4,7 @@
 💡 <b>연락처</b>
 <br />
 <br />
-<b>:envelope: 이메일</b> : leedoyoung.oc@gmail.com
+<b>:envelope: 이메일</b> : <a>leedoyoung.oc@gmail.com</a>
 <br />
 <b>:blue_book: 블로그</b> : <a href="https://whereiserror.tistory.com"  target="_blank" >https://whereiserror.tistory.com</a>
 
