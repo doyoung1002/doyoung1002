@@ -1,7 +1,7 @@
 ## 안녕하세요:wave: 이도영입니다. 
 
 <br />
-💡 <b>Contact</b>
+💡 <b>연락처</b>
 <br />
 <br />
 <b>:envelope: 이메일</b> : leedoyoung.oc@gmail.com
@@ -14,7 +14,7 @@
 
 
 <br/>
- :computer: <b>Skills</b>
+ :computer: <b>스킬</b>
 <br/>
 <br/>
 <p>
