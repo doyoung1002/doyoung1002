@@ -1,10 +1,10 @@
-## 안녕하세요 이도영입니다.
+## 안녕하세요😄 이도영입니다.
 
  <br />
  💡 <b>연락처</b>
  <br />
  <br />
- <b> 이메일</b> : leedoyoung.oc@gmail.com
+ <b> :email: 이메일</b> : leedoyoung.oc@gmail.com
  <br />
  <br />
 
