@@ -1,52 +1,52 @@
-## 안녕하세요:wave: 이도영입니다. 
+## 안녕하세요 이도영입니다.
 
-<br />
-💡 <b>연락처</b>
-<br />
-<br />
-<b>:envelope: 이메일</b> : leedoyoung.oc@gmail.com
-<br />
-<br />
+ <br />
+ 💡 <b>연락처</b>
+ <br />
+ <br />
+ <b>:봉투: 이메일</b> : leedoyoung.oc@gmail.com
+ <br />
+ <br />
 
-<b>:blue_book: 블로그</b> : <a href="https://whereiserror.tistory.com"  target="_blank" >https://whereiserror.tistory.com</a>
+ <b>:blue_book: 블로그</b> : <a href="https://whereiserror.tistory.com" target="_blank" >https://whereiserror.tistory.com</a>
 
-<br />
-
-
+ <br />
 
 
-<br/>
- :computer: <b>스킬</b>
-<br/>
-<br/>
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/STYLED--COMPONENTS-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/REACTQUERY-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
-<img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-<img src="https://img.shields.io/badge/TYPE--SCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
+
+ <br/>
+  :컴퓨터: <b>스킬</b>
+ <br/>
+ <br/>
+ <p>
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge  /CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+ <img src="https://img.shields.io/badge/STYLED--COMPONENTS-DB7093?style=for-the-badge&logo=styledcomComponents&logoColor=white">
+ <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+ <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+ <img src="https://img.shields.io/badge/REACTQUERY-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+ <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+ <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+ <img src="https://img.shields.io/badge/TYPE--SCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>
+ <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white">
+ <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+ </p>
 
 
 
-<!--
-**doyoung1002/doyoung1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <!--
+ **doyoung1002/doyoung1002**는 `README.md`(이 파일)가 GitHub 프로필에 나타나기 때문에 ✨ _special_ ✨ 저장소입니다.
 
-Here are some ideas to get you started:
+ 시작하는 데 도움이 되는 몇 가지 아이디어는 다음과 같습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🔭 현재 작업 중입니다 ...
+ - 🌱 지금 배우고 있는 중이에요...
+ - 👯 저는 ...에 협력하고 싶습니다.
+ - 🤔 도움을 구하고 싶은데요...
+ - 💬 나에게 물어보세요 ...
+ - 📫 연락 방법: ...
+ - 😄 대명사 : ...
+ - ⚡ 재미있는 사실: ...
+ -->
