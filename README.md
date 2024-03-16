@@ -4,7 +4,7 @@
  💡 <b>연락처</b>
  <br />
  <br />
- <b>:봉투: 이메일</b> : leedoyoung.oc@gmail.com
+ <b> 이메일</b> : leedoyoung.oc@gmail.com
  <br />
  <br />
 
