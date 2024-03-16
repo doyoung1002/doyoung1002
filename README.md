@@ -21,7 +21,6 @@
  <br/>
  <p>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge  /CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
- <img src="https://img.shields.io/badge/STYLED--COMPONENTS-DB7093?style=for-the-badge&logo=styledcomComponents&logoColor=white">
  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">
  <img src="https://img.shields.io/badge/REACTQUERY-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
