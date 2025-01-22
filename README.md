@@ -27,8 +27,9 @@
  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=Next.js&logoColor=white">
  <img src="https://img.shields.io/badge/TYPE--SCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/VERCEL-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+ <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white">
  </p>
 
 
