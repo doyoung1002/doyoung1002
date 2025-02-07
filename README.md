@@ -23,11 +23,11 @@
  </p>
  <p>
  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white">
- <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+ <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
  </p>
  <p>
- <img src="https://img.shields.io/badge/TANSTACKQUERY-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+ <img src="https://img.shields.io/badge/TANSTACK--QUERY-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
  <img src="https://img.shields.io/badge/Zustand-ECB73E?style=for-the-badge&logo=zustand&logoColor=white">
  <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white">
  </p>
