@@ -1,12 +1,9 @@
 ## 안녕하세요😄 이도영입니다.
 
  <br />
- <b> :email: 이메일</b> | leedoyoung.oc@gmail.com
+ <b> :email: 이메일</b> | <a href="mailto:leedoyoung.oc@gmail.com" target="_blank">leedoyoung.oc@gmail.com</a>
  <br />
  <b>:blue_book: 블로그</b> | <a href="https://whereiserror.tistory.com" target="_blank" >https://whereiserror.tistory.com</a>
-
-<a href="mailto:leedoyoung.oc@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
  <br />
  <br/>
   💻 <b>스킬</b>
