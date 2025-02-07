@@ -1,17 +1,18 @@
 ## 안녕하세요😄 이도영입니다.
 
+
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f4e9.svg" width="16" /> <b>이메일</b> | <a href="mailto:leedoyoung.oc@gmail.com" target="_blank">leedoyoung.oc@gmail.com</a>
  <br />
  <b>:blue_book: 블로그</b> | <a href="https://whereiserror.tistory.com" target="_blank" >https://whereiserror.tistory.com</a>
  <br />
  <img width="16" alt="img" src="https://user-images.githubusercontent.com/64634992/181509965-072df07e-b703-4459-a920-c0d51b52d545.png"> <b>링크드인</b> | <a href="https://www.linkedin.com/in/doyoung-lee-820561291/" target="_blank" >LinkedIn</a>
 
-
  <br/>
   💻 <b>스킬</b>
  <br/>
  <p align = 'center'>
  <p>
+
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
  <img src="https://img.shields.io/badge/TYPE--SCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
