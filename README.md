@@ -1,7 +1,7 @@
 ## 안녕하세요😄 이도영입니다.
 
 
-<img src="https://abs-0.twimg.com/emoji/v2/svg/1f4e9.svg" width="16" /> <b>이메일</b> | <a href="mailto:leedoyoung.oc@gmail.com" target="_blank">leedoyoung.oc@gmail.com</a>
+ <b>:envelope: <b>이메일</b> | <a href="mailto:leedoyoung.oc@gmail.com" target="_blank">leedoyoung.oc@gmail.com</a>
  <br />
  <b>:blue_book: 블로그</b> | <a href="https://whereiserror.tistory.com" target="_blank" >https://whereiserror.tistory.com</a>
  <br />
