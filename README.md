@@ -4,7 +4,7 @@
  <br />
  <b>:blue_book: 블로그</b> | <a href="https://whereiserror.tistory.com" target="_blank" >https://whereiserror.tistory.com</a>
  <br />
- <img width="16" alt="img" src="https://user-images.githubusercontent.com/64634992/181509965-072df07e-b703-4459-a920-c0d51b52d545.png"> <b>링크드인</b> | <a href="www.linkedin.com/in/doyoung-lee-820561291" target="_blank" >LinkedIn</a>
+ <img width="16" alt="img" src="https://user-images.githubusercontent.com/64634992/181509965-072df07e-b703-4459-a920-c0d51b52d545.png"> <b>링크드인</b> | <a href="www.linkedin.com/in/doyoung-lee-820561291](https://www.linkedin.com/in/doyoung-lee-820561291/" target="_blank" >LinkedIn</a>
 
 
  <br/>
